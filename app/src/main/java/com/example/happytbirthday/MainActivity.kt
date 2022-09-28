@@ -58,7 +58,7 @@ fun BirthdayGreetingWithText(message: String, from: String){
                     .wrapContentWidth(align = Alignment.End)
                     .padding(
                         start = 16.dp,
-                        end = 16.dp
+                        end = 24.dp
                     )
             )
     }
